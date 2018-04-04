@@ -1,0 +1,3 @@
+If we input a stream of characters and provide EOF without ever typing 
+a whitespace, the program logic will fail.
+
