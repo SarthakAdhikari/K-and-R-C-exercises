@@ -6,8 +6,8 @@
 #define BACKSLASH 92
 
 int main(){
+
    int get_char_value, condition_counter;
-   
 
    while((get_char_value = getchar()) != EOF){
        condition_counter = 0;
